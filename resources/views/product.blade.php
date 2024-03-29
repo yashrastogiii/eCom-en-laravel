@@ -44,7 +44,6 @@
   <div class='marg'> 
     <p>yasa</p>
   </div>
-  
 </div>
 </div>
 @endsection
